@@ -15,5 +15,6 @@
 - Functions (in code)
   - addTodo
   - deleteTodo
+  - filterTodo
   - checkTodo
   - renderList
